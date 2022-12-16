@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/coreclass/coreclass.iml" filepath="$PROJECT_DIR$/coreclass/coreclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloworldweb/helloworldweb.iml" filepath="$PROJECT_DIR$/helloworldweb/helloworldweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overwrite/overwrite.iml" filepath="$PROJECT_DIR$/overwrite/overwrite.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/practice.iml" filepath="$PROJECT_DIR$/.idea/practice.iml" />
     </modules>
   </component>
